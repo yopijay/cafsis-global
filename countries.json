@@ -1,8 +1,8 @@
 {
-    "countriesArray": [
+    "countries": [
         {
             "code": "AUS",
-            "name": "Australia",
+            "name": "AUSTRALIA",
             "states": [{
                 "code": "NSW",
                 "name": "NEW SOUTH WALES",
@@ -331,7 +331,7 @@
             }]
         }, {
             "code": "USA",
-            "name": "United States of America",
+            "name": "UNITED STATES OF AMERICA",
             "states": [{
                 "code":"AL",
                 "name":"ALABAMA",
@@ -656,7 +656,7 @@
             }]
         }, {
             "code": "CAN",
-            "name": "Canada",
+            "name": "CANADA",
             "states": [{
                 "code":"YT",
                 "name":"YUKON",
